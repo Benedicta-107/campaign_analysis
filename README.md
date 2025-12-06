@@ -8,12 +8,12 @@ Manchester, UK
 
 Project Overview
 
-A startup company facing funding constraints, needed to determine which single marketing campaign to continue running in order to maximize customer acquisition and profit margin.
+A startup company facing funding constraints needed to determine which single marketing campaign to continue running in order to maximise customer acquisition and profit margin.
 
-As the company’s new Data Analyst, I analyzed historical order data to evaluate the performance of all campaigns and recommended the one campaign that should remain active.
+As the company’s new Data Analyst, I analysed historical order data to evaluate the performance of all campaigns and recommended the one campaign that should remain active.
 
 Tools & Technologies
-	•	Python 🐍
+	•	Python
 	•	Libraries: pandas, numpy, matplotlib
 	•	Google Colab for analysis
 	•	GitHub for version control and project sharing
@@ -29,7 +29,7 @@ Unique identifier for each order
 CustID
 Customer identifier
 ProductPrice
-Selling price of each product
+The selling price of each product
 ProductCost
 Cost price of each product
 OrderQuantity
@@ -71,25 +71,23 @@ Analysis Process
 	4.	Visualization: Created bar and line charts showing revenue and trends.
 	5.	Scoring: Ranked campaigns using profitability and risk scores.
 
-Google Ads achieved the highest margin and customer volume despite not having the top revenue — making it the most profitable and efficient campaign.
+Google Ads achieved the highest margin and customer volume despite not having the top revenue, making it the most profitable and efficient campaign.
 
 Key Insights
 	•	Google Ads is the best-performing campaign with the highest score and zero fraud rate.
 	•	Meta Ads and YouTube bring fair traffic but at higher costs and lower margins.
-	•	Focused budget allocation to Google Ads will maximize ROI and sustain company’s growth.
+	•	Focused budget allocation to Google Ads will maximize ROI and sustain the company’s growth.
 
 Recommendations
 	•	Continue with Google Ads as the main campaign.
 	•	Track AOV, conversion rates, and CPA weekly.
 	•	Run A/B tests on creatives and landing pages to boost conversion.
-	•	Maintain fraud detection monitoring, even if current fraud rate is 0%.
+	•	Maintain fraud detection monitoring, even if the current fraud rate is 0%.
 
 Visual Outputs
 	1.	Revenue by Campaign — Bar Chart
 	2.	Weekly Revenue Trends — Line Chart
 	3.	Profit Margin % by Campaign
-
-Acknowledgement
 
 It demonstrates data cleaning, KPI analysis, visualization, and business recommendation skills.
 
